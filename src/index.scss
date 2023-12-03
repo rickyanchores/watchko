@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+//IMPORTS
+@import "../src/App.scss";
+@import "../src/Components/Nav/Nav.scss";
+
 //MIXINS
 
 $mainBg: black;
