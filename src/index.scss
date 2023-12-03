@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+//MIXINS
+
+$mainBg: black;
+$primaryText: whitesmoke;
+$secondaryText: silver;
+$hypeColor: rgb(179, 34, 59)255, 192, 238;
+
+
+:root{
+  font-family: monospace;
+  padding: 0;
+  margin: 0;
+}
+
+
+
+body{
+  background: black;
+  color: $primaryText
+}
