@@ -2,7 +2,7 @@ import React from 'react'
 
 const Nav = () => {
   return (
-    <div className='Nav'>
+    <div className='Nav text-black'>
       <div className="logo">watchko</div>
       <div className="navLinks">
         <li className="link">Home</li>

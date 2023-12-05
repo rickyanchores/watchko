@@ -8,11 +8,11 @@ import Hero from '../../Components/Hero/Hero';
 const Home = () => {
   return (
     <div className='Home font-bold p-5'>
-        <div className="upper p-5 flex">
+        <div className="upper p-3 flex">
           <Hero />
           <SocialMedia />
         </div>
-        <div className="upper p-5 flex">
+        <div className="upper p-3 flex">
         <div className="ADS w-1/4 flex justify-center items-center bg-red-700 rounded-lg m-2">
             ADS
           </div>
