@@ -13,7 +13,7 @@ const Home = () => {
           <SocialMedia />
         </div>
         <div className="upper p-5 flex">
-        <div className="ADS w-1/4 flex justify-center bg-red-700 m-2">
+        <div className="ADS w-1/4 flex justify-center items-center bg-red-700 rounded-lg m-2">
             ADS
           </div>
           <img src="https://intl.cmf.tech/cdn/shop/files/Group_270_1920x.png?v=1695698361" alt="heroImg" className='HeroImage w-3/4 bg-red-800 rounded-lg m-2'/>
