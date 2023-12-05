@@ -9,7 +9,7 @@
 
 //MIXINS
 
-$mainBg: black;
+$mainBg: rgb(187, 178, 178);
 $primaryText: whitesmoke;
 $secondaryText: silver;
 $hypeColor: rgb(179, 34, 59)255, 192, 238;
@@ -24,6 +24,6 @@ $hypeColor: rgb(179, 34, 59)255, 192, 238;
 
 
 body{
-  background: black;
+  background: $mainBg;
   color: $primaryText
 }
